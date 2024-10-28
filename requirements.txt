@@ -1,4 +1,6 @@
 ipykernel
 tqdm
-numpy
+numpy<2.1
 pandas
+catboost
+scikit-learn
